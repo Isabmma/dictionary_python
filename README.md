@@ -2,11 +2,11 @@
 
 - exercise_one
 1. "Less practical" exercise to train dictionary manipulation
-
+<br>
 - exercises_two_three
 2. Identifying Risk Locations
 3. Case of Hashtag
-
+<br>
 - Booklet - Methods of Dictionaries
 1. clear()
 2. copy()
