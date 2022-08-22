@@ -3,7 +3,7 @@
 - exercise_one
 1. "Less practical" exercise to train dictionary manipulation
 
--exercises_two_three
+- exercises_two_three
 2. Identifying Risk Locations
 3. Case of Hashtag
 
